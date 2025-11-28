@@ -1,0 +1,1 @@
+console.log("day3: JS fundamentals");
